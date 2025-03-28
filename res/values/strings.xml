@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sshop</string>
+    <string name="item_image_description">Описание изображения товара</string>
+    <string name="view_button_text">Просмотреть</string>
+    <string name="view_button_buy">Купить</string>
+</resources>
